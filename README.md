@@ -1,0 +1,2 @@
+# hello-word
+get srat
